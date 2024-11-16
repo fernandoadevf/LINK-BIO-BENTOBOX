@@ -2,9 +2,9 @@
 # Imagem do Projeto
 ![imagem do projeto](./img/rm-dev-link-bio-2.0.png "Link Bio RM Dev 2.0")
 
-# Meus Links - Ricardo Moura│Dev
+# Meus Links - Fernando Arantes│Dev
 
-Este é um site pessoal desenvolvido por Ricardo Moura para centralizar links importantes e destacar habilidades e projetos. A página inclui widgets com informações pessoais, habilidades técnicas, links para redes sociais, e muito mais.
+Este é um site pessoal desenvolvido para centralizar links importantes e destacar habilidades e projetos. A página inclui widgets com informações pessoais, habilidades técnicas, links para redes sociais, e muito mais. (projeto oficial de Ricardo Moura
 
 ## Características
 
