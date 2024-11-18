@@ -4,15 +4,9 @@
 
 # Meus Links - Fernando Arantes │ Dev
 
-<<<<<<< HEAD
 
-Este é um site pessoal desenvolvido para centralizar links importantes e destacar habilidades e projetos. A página inclui widgets com informações pessoais, habilidades técnicas, links para redes sociais, e muito mais. (projeto oficial de Ricardo Moura
-=======
-Este é um site pessoal desenvolvido centralizar links importantes e destacar habilidades e projetos. A página inclui widgets com informações pessoais, habilidades técnicas, links para redes sociais, e muito mais. projeto original de Ricardo Moura
-=======
-Este é um site pessoal desenvolvido para centralizar links importantes e destacar habilidades e projetos. A página inclui widgets com informações pessoais, habilidades técnicas, links para redes sociais, e muito mais. (projeto oficial de Ricardo Moura
+Este é um site pessoal desenvolvido para centralizar links importantes e destacar habilidades e projetos. A página inclui widgets com informações pessoais, habilidades técnicas, links para redes sociais, e muito mais. (projeto oficial de Ricardo Moura)
 
->>>>>>> 1eee2e9 (att)
 
 
 ## Características
