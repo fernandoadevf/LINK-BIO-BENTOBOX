@@ -278,7 +278,7 @@ a {
 .img-tread {
     width: 100%;
     height: 100px;
-    background-image: url(../img/fire.png);
+    background-image: url ("https://fernandoadevf.github.io/LINK-BIO-BENTOBOX/img/fire.png");
     background-position: center;
     background-size: 100%;
     border-radius: 8px;
