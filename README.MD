@@ -4,6 +4,7 @@
 
 # Meus Links - Fernando Arantes │ Dev
 
+![imagem do projeto](./img/Sem%20nome%20(1920%20x%201080%20px)%20(2).png)
 
 Este é um site pessoal desenvolvido para centralizar links importantes e destacar habilidades e projetos. A página inclui widgets com informações pessoais, habilidades técnicas, links para redes sociais, e muito mais. (projeto oficial de Ricardo Moura)
 
